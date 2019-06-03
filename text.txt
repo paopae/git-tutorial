@@ -1,4 +1,6 @@
 Version Control with GIT 1
 - update file to test github
 - update file to local from github
+- colleague updated file
 - I have updated file
+
